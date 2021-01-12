@@ -35,3 +35,4 @@
 - docker的一些部署使用可以参考[记一次在测试环境云服务器上搭建运行在Docker中的MySQL](https://furybrand.gitee.io/2020/09/03/mysql-by-docker/)
 - Nginx的使用和相关配置参考[Linux-浅谈Nginx的反向代理 即http请求经历了什么😀](https://furybrand.gitee.io/2019/03/12/Linux-Nginx-Tomcat-small-talk/)、[T-记一次Nginx分享
 ](https://furybrand.gitee.io/2020/09/02/nginx/)
+- 功能1的实现参考了[百度脑图核心——kityminder-editor 本地化改造](https://blog.csdn.net/Lancelot_Lewis/article/details/51730875)
